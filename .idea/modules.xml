@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Prettiest.iml" filepath="$PROJECT_DIR$/Prettiest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrettiestAndroidApp.iml" filepath="$PROJECT_DIR$/PrettiestAndroidApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/prettiest/prettiest.iml" filepath="$PROJECT_DIR$/prettiest/prettiest.iml" />
     </modules>
   </component>

@@ -2,16 +2,22 @@
 <pre-dex-items>
 
     <item
-        dex="C:\morbiuz\docs\dev\android\Prettiest\prettiest\build\pre-dexed\debug\classes-e32911433ee9fd1db4443a5ce87b7e4e1d1b9bf1.jar"
-        jar="C:\morbiuz\docs\dev\android\Prettiest\build\exploded-aar\com.android.support\appcompat-v7\19.0.1\classes.jar"
-        jumboMode="false"
-        revision="19.0.3"
-        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
-    <item
-        dex="C:\morbiuz\docs\dev\android\Prettiest\prettiest\build\pre-dexed\debug\support-v4-19.0.1-04dde37e48405b4442ed2e114457f34f6f27cab4.jar"
+        dex="C:\morbiuz\docs\dev\android\PrettiestAndroidApp\prettiest\build\pre-dexed\debug\support-v4-19.0.1-04dde37e48405b4442ed2e114457f34f6f27cab4.jar"
         jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
         jumboMode="false"
         revision="19.0.3"
         sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+    <item
+        dex="C:\morbiuz\docs\dev\android\PrettiestAndroidApp\prettiest\build\pre-dexed\debug\classes-81033861df939c3ccb4d037a3217163f2a7b5b72.jar"
+        jar="C:\morbiuz\docs\dev\android\PrettiestAndroidApp\build\exploded-aar\com.android.support\appcompat-v7\19.0.1\classes.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="f71a6822470c9eb659d4f4a6cb57b780b35f058b"/>
+    <item
+        dex="C:\morbiuz\docs\dev\android\PrettiestAndroidApp\prettiest\build\pre-dexed\debug\classes-4f033822d308b0ab5a40fc5c8b3bd8943e96b5e1.jar"
+        jar="C:\morbiuz\docs\dev\android\PrettiestAndroidApp\build\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\classes.jar"
+        jumboMode="false"
+        revision="19.0.3"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6"/>
 
 </pre-dex-items>
